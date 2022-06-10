@@ -1,0 +1,18 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #8b7de4; text-align: center; text-decoration: underline;text-shadow: 3px 1px 0px black;
+}
+form{
+align-items: center;background-color: #7061cb;color: white; width: 865px;margin: auto; padding: 8px; margin-left: auto;border: #574b99;
+}
+#Table{
+    margin-left: 150px; margin-top: -10px;
+}
+div{
+    align-items: center;text-align: center;
+}
+button:hover{background-color:aqua; margin-top: auto;
+}
